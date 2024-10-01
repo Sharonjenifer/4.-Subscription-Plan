@@ -2,7 +2,7 @@
 
 This project is a subscription plan page created using HTML and basic CSS. It is designed to display different subscription tiers, allowing users to easily compare features and pricing.
 
-How to view:
+**How to view:**
 
 You can access my website by visiting [https://sharonjenifer.github.io/4.-Subscription-Plan/].
 
