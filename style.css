@@ -1,0 +1,60 @@
+body{
+    margin-top: 100px;
+    font-family: 'Signika Negative', sans-serif;
+}
+
+.container{
+    display: flex;
+flex-wrap: wrap;
+justify-content: center;
+gap: 30px;
+
+}
+.plan__s1{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+    
+}
+.plan__s2{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.plan__s3{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.plan__s1__title{
+    font-size: 35px;
+    text-align: center;
+    border-bottom: solid white 1px;
+}
+.plan__s1__disc{
+    border: solid white 1px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+.plan{
+    display: flex;
+    justify-content: center;
+}
+.plan__title{
+    background-color: rgb(81, 95, 91);
+    color: white;
+    text-align: center;
+    padding: 10px;
+    width: 820px;
+    margin: 10px;
+    font-size: 40px;
+}
