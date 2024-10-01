@@ -4,7 +4,7 @@ This project is a subscription plan page created using HTML and basic CSS. It is
 
 How to view:
 
-You can access my portfolio website by visiting [https://sharonjenifer.github.io/4.-Subscription-Plan/].
+You can access my website by visiting [https://sharonjenifer.github.io/4.-Subscription-Plan/].
 
 **Features:**
 
