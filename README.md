@@ -2,6 +2,10 @@
 
 This project is a subscription plan page created using HTML and basic CSS. It is designed to display different subscription tiers, allowing users to easily compare features and pricing.
 
+How to view:
+
+You can access my portfolio website by visiting [].
+
 **Features:**
 
 **Subscription Tiers:** Multiple pricing plans with feature breakdowns for each.
